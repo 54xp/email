@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.glassfish:javax.mail:3.0-b68">
+    <CLASSES>
+      <root url="jar://D:/IDEAMaven/alljarbao/org/glassfish/javax.mail/3.0-b68/javax.mail-3.0-b68.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/IDEAMaven/alljarbao/org/glassfish/javax.mail/3.0-b68/javax.mail-3.0-b68-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/IDEAMaven/alljarbao/org/glassfish/javax.mail/3.0-b68/javax.mail-3.0-b68-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
